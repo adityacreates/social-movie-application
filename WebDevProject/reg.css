@@ -1,0 +1,98 @@
+body {
+  background-image: url(./assets/images/poster2.jpg);
+  background-size: cover;
+  background-position: center;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+}
+
+.register-container {
+  max-width: 300px;
+  margin: 100px auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 5px;
+}
+
+.register-container {
+  position: relative;
+  margin-bottom: 15px;
+}
+
+.register-container i {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  left: 10px;
+}
+
+.input-container input {
+  width: calc(100% - 30px);
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+.message-container {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.message-container p {
+  margin-bottom: 10px;
+}
+
+.message-container a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+}
+
+.input-container {
+  position: relative;
+}
+
+.input-container input {
+  padding-right: 30px; /* Add space for the icon */
+}
+
+#pic {
+  left: 290px;
+  right: 250px;
+}
+
+#pic2 {
+  left: 290px;
+  right: 300px;
+}
+
+#pic3 {
+  left: 290px;
+  right: 300px;
+}
+
+.title-container header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f8f8f8;
+  padding: 30px;
+  flex-direction: 
+  column;
+}
+
+h1 {
+  color: white;
+  font-size: 24px;
+  text-align: center;
+}
